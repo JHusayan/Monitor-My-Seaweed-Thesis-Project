@@ -1,0 +1,38 @@
+body
+{
+
+	background: url(image.jpg);
+	background-size: cover;
+	background-position: center;
+
+
+}
+
+.login-box
+{
+
+	max-width: 700px;
+	float: none;
+	margin: 150px auto;
+
+}
+
+.login-left
+{
+
+	background: ;
+	padding: 50px;
+}
+
+.login-right
+{
+
+	background: #fff;
+	padding: 50px;
+}
+
+.form-control
+{
+
+	background-color: transparent !important;
+}
